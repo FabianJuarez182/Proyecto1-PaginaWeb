@@ -1,7 +1,8 @@
+/* eslint-disable linebreak-style */
 import React, { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '../public/vite.svg'
-import './App.css'
+import './App.scss'
 
 function App() {
   const [counter, setCounter] = useState(0)
