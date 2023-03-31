@@ -1,0 +1,38 @@
+body, input, textarea, button, select {
+    font-size: 14px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+    line-height: 1.6;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body, input, textarea, button, select {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+}
+
+.top-bar, .site-header {
+    color: black;
+}
+div {
+    display: block;
+}
+.grid__item {
+    float: left;
+    padding-left: 30px;
+    width: 100%;
+}
+.top-bar {
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    font-size: 12.6px;
+    line-height: 35.04px;
+}
