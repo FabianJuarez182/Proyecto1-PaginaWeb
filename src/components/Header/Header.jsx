@@ -46,6 +46,17 @@ function Header() {
           </div>
         </div>
         <hr className="small--hide hr--border" />
+        <header className="site-header grid medium-up--grid--table" role="banner">
+          <div className="grid__item small--text-center">
+            <div itemScope itemType="http://schema.org/Organization">
+              <div id="HeaderLogoWrapper" className="supports-js">
+                <a className="arr" href="/" itemProp="url">
+                  <img id="HeaderLogo" className="lazyautosizes lazyload" src="//cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_150x150.png?v=1613528790" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio data-sizes="auto" alt="The Beast Is Back Inc" itemProp="logo" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_180x.png?v=1613528790 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_360x.png?v=1613528790 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_540x.png?v=1613528790 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_720x.png?v=1613528790 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_900x.png?v=1613528790 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_1080x.png?v=1613528790 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_1296x.png?v=1613528790 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_1512x.png?v=1613528790 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_1728x.png?v=1613528790 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_2048x.png?v=1613528790 2048w" sizes="150px" />
+                </a>
+              </div>
+            </div>
+          </div>
+        </header>
       </div>
     </div>
   )
