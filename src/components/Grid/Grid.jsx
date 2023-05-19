@@ -68,6 +68,60 @@ function Grid() {
             </nav>
           </div>
         </div>
+        <main className="main-content grid__item medium-up--four-fifths" id="MainContent" role="main">
+          <div className="index-sections">
+            <div id="shopify-section-16233841326b63ff8c" className="shopify-section">
+              <div className="grid banner-wrapper">
+                <div className="grid__item banner slide-up-animation animated">
+                  <div className="supports-js">
+                    <div className="banner__image-wrapper">
+                      <img className="banner__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_300x300.jpg?v=1623384730" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="2.108695652173913" data-sizes="auto" alt="The Beast Is Back Inc" itemProp="image" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_180x.jpg?v=1623384730 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_360x.jpg?v=1623384730 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_540x.jpg?v=1623384730 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_720x.jpg?v=1623384730 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_900x.jpg?v=1623384730 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1080x.jpg?v=1623384730 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1296x.jpg?v=1623384730 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1512x.jpg?v=1623384730 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1728x.jpg?v=1623384730 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_2048x.jpg?v=1623384730 2048w" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_180x.jpg?v=1623384730 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_360x.jpg?v=1623384730 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_540x.jpg?v=1623384730 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_720x.jpg?v=1623384730 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_900x.jpg?v=1623384730 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1080x.jpg?v=1623384730 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1296x.jpg?v=1623384730 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1512x.jpg?v=1623384730 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_1728x.jpg?v=1623384730 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/files/JR-Shopify-Header-970x460_2048x.jpg?v=1623384730 2048w" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="shopify-section-featured-products" className="shopify-section">
+              <hr className="medium-up--hide hr--clear hr--small" />
+              <div className="featured-products">
+                <h2 className="small--text-center">New Stuff</h2>
+                <div className="grid grid--uniform" role="list">
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-a">
+                      <a href="/products/draw-typewriter-screen-print" className="product__image-wrapper" title="draw (Typewriter) - Screen Print">
+                        <img className="product__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_150x150.png?v=1677088806" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="draw (Typewriter) - Screen Print" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_180x.png?v=1677088806 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_360x.png?v=1677088806 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_540x.png?v=1677088806 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_720x.png?v=1677088806 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_900x.png?v=1677088806 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1080x.png?v=1677088806 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1296x.png?v=1677088806 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1512x.png?v=1677088806 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1728x.png?v=1677088806 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_2048x.png?v=1677088806 2048w" sizes="290px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_180x.png?v=1677088806 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_360x.png?v=1677088806 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_540x.png?v=1677088806 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_720x.png?v=1677088806 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_900x.png?v=1677088806 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1080x.png?v=1677088806 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1296x.png?v=1677088806 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1512x.png?v=1677088806 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_1728x.png?v=1677088806 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/typewriter-draw-1_2048x.png?v=1677088806 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/draw-typewriter-screen-print">draw (Typewriter) - Screen Print</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price">
+                        <span className="visually-hidden">Regular price</span>
+                        $15.00
+                      </span>
+                    </div>
+                  </div>
+                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+
+                  </div>
+                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+
+                  </div>
+                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+
+                  </div>
+                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    
+                  </div>
+                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </main>
       </div>
     </div>
   )
