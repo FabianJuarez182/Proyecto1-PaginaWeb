@@ -1,0 +1,114 @@
+.social-links a{
+    color: black ;
+}
+
+svg.icon:not(.icon--full-color) circle,
+svg.icon:not(.icon--full-color) ellipse,
+svg.icon:not(.icon--full-color) g,
+svg.icon:not(.icon--full-color) line,
+svg.icon:not(.icon--full-color) path,
+svg.icon:not(.icon--full-color) polygon,
+svg.icon:not(.icon--full-color) polyline,
+svg.icon:not(.icon--full-color) rect,
+symbol.icon:not(.icon--full-color) circle,
+symbol.icon:not(.icon--full-color) ellipse,
+symbol.icon:not(.icon--full-color) g,
+symbol.icon:not(.icon--full-color) line,
+symbol.icon:not(.icon--full-color) path,
+symbol.icon:not(.icon--full-color) polygon,
+symbol.icon:not(.icon--full-color) polyline,
+symbol.icon:not(.icon--full-color) rect{
+    fill: inherit;
+    stroke: inherit;
+}
+
+.list--inline li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+}
+
+.visually-hidden,
+.icon__fallback-text,
+.supports-no-js .featured-blog__post .article__featured-image-wrapper,
+.supports-no-js .map-section__background-wrapper .js {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+}
+
+.site-nav ul,
+.site-footer__menu {
+    padding-left: 0;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.list--inline {
+    padding: 0;
+    margin-bottom: -5px;
+}
+
+.social-links {
+    margin-bottom: 30px;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+.medium-up--hide {
+    display: none !important;
+}
+
+hr.hr--small {
+    margin: 15px 0;
+}
+
+hr.hr--border-bottom {
+    margin-bottom: 0;
+}
+
+.site-nav__item:first-child {
+    border-top: 1px solid #c3a03f;
+}
+
+.site-nav__item {
+    border-bottom: 1px solid #c3a03f;
+}
+
+a {
+    color: #f16446;
+    text-decoration: none;
+}
+
+.site-nav--active a, .site-nav__submenu .site-nav--active a {
+    color: black;
+    font-weight: 700;
+}
+
+.site-nav__link {
+    display: block;
+    width: 100%;
+    padding: 9px 0;
+    font-size: 15px;
+    color: black;
+}
+
+.site-nav__link {
+    padding: 12px 0;
+}
+
+.list--inline li:last-child {
+    padding-right: 0;
+}
+
+.icon.icon-instagram{
+    margin-left: 4.5px;
+}

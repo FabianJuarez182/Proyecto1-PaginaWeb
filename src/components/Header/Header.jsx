@@ -1,7 +1,8 @@
 /* eslint-disable linebreak-style */
-
 import './Header.scss'
 import React from 'react'
+import { ReactComponent as WhateverIcon } from './search.svg'
+import { ReactComponent as WhateverIcon2 } from './cart.svg'
 
 function Header() {
   return (
@@ -13,9 +14,7 @@ function Header() {
             <div className="top-bar__search">
               <form action="" method="get" className="search-bar small--hide" role="search">
                 <button className="search-bar__submit" type="submit">
-                  <svg aria-hidden="true" focusable="false" role="presentation" className="icon icon-search" viewBox="0 0 20 20">
-                    <path fill="#444" d="M18.64 17.02l-5.31-5.31c.81-1.08 1.26-2.43 1.26-3.87C14.5 4.06 11.44 1 7.75 1S1 4.06 1 7.75s3.06 6.75 6.75 6.75c1.44 0 2.79-.45 3.87-1.26l5.31 5.31c.45.45 1.26.54 1.71.09.45-.36.45-1.17 0-1.62zM3.25 7.75c0-2.52 1.98-4.5 4.5-4.5s4.5 1.98 4.5 4.5-1.98 4.5-4.5 4.5-4.5-1.98-4.5-4.5z" />
-                  </svg>
+                  <WhateverIcon />
                 </button>
                 <input type="search" name="q" className="search-bar__input" placeholder="Search" aria-label="Search" />
               </form>
@@ -30,10 +29,7 @@ function Header() {
           </div>
           <div className="grid__item medium-up--two-fifths small--one-half text-right">
             <a href="" className="site-header__cart">
-              <svg aria-hidden="true" focusable="false" role="presentation" className="icon icon-search" viewBox="0 0 20 20">
-                <path fill="#444" d="M18.936 5.564c-.144-.175-.35-.207-.55-.207h-.003L6.774 4.286c-.272 0-.417.089-.491.18-.079.096-.16.263-.094.585l2.016 5.705c.163.407.642.673 1.068.673h8.401c.433 0 .854-.285.941-.725l.484-4.571c.045-.221-.015-.388-.163-.567z" />
-                <path fill="#444" d="M17.107 12.5H7.659L4.98 4.117l-.362-1.059c-.138-.401-.292-.559-.695-.559H.924c-.411 0-.748.303-.748.714s.337.714.748.714h2.413l3.002 9.48c.126.38.295.52.942.52h9.825c.411 0 .748-.303.748-.714s-.336-.714-.748-.714zM10.424 16.23a1.498 1.498 0 1 1-2.997 0 1.498 1.498 0 0 1 2.997 0zM16.853 16.23a1.498 1.498 0 1 1-2.997 0 1.498 1.498 0 0 1 2.997 0z" />
-              </svg>
+              <WhateverIcon2 />
               <span className="small--hide">
                 {' '}
                 Cart (

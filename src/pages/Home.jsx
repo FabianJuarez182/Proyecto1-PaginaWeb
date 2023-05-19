@@ -1,9 +1,9 @@
-export const Home = () => {
-    return <div>This is the Home Page</div>;
-  };
-export const Home = () => {
-    return <div>This is the Other Page</div>;
-  };
-  export const NotFound = () => {
-    return <div>Not Found</div>;
-  };
+/* eslint-disable linebreak-style */
+import React from 'react'
+
+export function Home() {
+  return <div>This is the Home Page</div>
+}
+export function NotFound() {
+  return <div>Not Found</div>
+}
