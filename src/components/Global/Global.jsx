@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react'
 import Header from '../Header/Header'
 import Grid from '../Grid/Grid'
-import Loader from '../Loader/Loader' // Ruta al archivo del componente Loader
+import Loader from '../Loader/Loader'
 
 function Global() {
   const [isLoading, setIsLoading] = useState(true)

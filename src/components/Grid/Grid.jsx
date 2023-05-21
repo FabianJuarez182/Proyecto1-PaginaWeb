@@ -2,6 +2,7 @@
 
 import './Grid.scss'
 import React from 'react'
+import Footer from '../Footer/Footer'
 
 function Grid() {
   return (
@@ -197,7 +198,8 @@ function Grid() {
           </div>
         </main>
       </div>
-      <hr />
+      <hr className="hr-1" />
+      <Footer />
     </div>
   )
 }
