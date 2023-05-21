@@ -9,6 +9,7 @@ This project is a clone of thebeastistisback, worked in a React + Vite environme
 * [ESLint](https://eslint.org/docs/latest/)
 * [Loaders for SVG](https://dev.to/cassidoo/importing-svg-files-as-react-components-with-vite-l3n)
 * [PostCSS](https://postcss.org/docs/)
+* [vitest](https://vitest.dev/)
 
 ## :notebook_with_decorative_cover: Installation
 
