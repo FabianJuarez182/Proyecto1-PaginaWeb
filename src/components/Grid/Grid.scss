@@ -260,3 +260,74 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-style: normal;
     text-rendering: optimizeLegibility;
 }
+
+b, strong {
+    font-weight: bold;
+}
+
+.grid--uniform .animated:nth-child(2) {
+    -webkit-animation-delay: 0.2s;
+    -moz-animation-delay: 0.2s;
+    -o-animation-delay: 0.2s;
+}
+
+.product__image-wrapper:hover img {
+    filter:  opacity(0.7);
+}
+
+.product__price--on-sale {
+    color: #ff2dd9;
+}
+
+.badge {
+    position: absolute;
+    line-height: 1.1;
+}
+
+.badge span {
+    height: 55px;
+    width: 55px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px;
+    border-radius: 50%;
+    font-size: 13px;
+    color: white;
+}
+
+.badge--sale span {
+    background-color: #ff2dd9;
+}
+
+.badge--sale {
+    top: 3px;
+    right: 3px;
+}
+
+.supports-js-b{
+    max-width: 402px; margin: 0 auto; 
+}
+
+.product__image-wrapper-a{
+    padding-top:149.402390438247%;
+    display: block;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.product__image-wrapper-a:hover img {
+    filter:  opacity(0.7);
+}
+
+.grid--uniform .animated:nth-child(4) {
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    -o-animation-delay: 0.4s;
+}
+
+.grid--uniform .animated:nth-child(5) {
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;
+    -o-animation-delay: 0.5s;
+}

@@ -102,20 +102,94 @@ function Grid() {
                       </span>
                     </div>
                   </div>
-                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
-
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-a">
+                      <a href="/products/sky-king-pterantor-magma-soft-vinyl-toy" className="product__image-wrapper" title="Sky King Pterantor – Magma - Soft Vinyl Toy">
+                        <img className="product__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_150x150.jpg?v=1670270511" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="Sky King Pterantor – Magma - Soft Vinyl Toy" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_180x.jpg?v=1670270511 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_360x.jpg?v=1670270511 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_540x.jpg?v=1670270511 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_720x.jpg?v=1670270511 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_900x.jpg?v=1670270511 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1080x.jpg?v=1670270511 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1296x.jpg?v=1670270511 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1512x.jpg?v=1670270511 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1728x.jpg?v=1670270511 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_2048x.jpg?v=1670270511 2048w" sizes="303px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_180x.jpg?v=1670270511 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_360x.jpg?v=1670270511 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_540x.jpg?v=1670270511 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_720x.jpg?v=1670270511 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_900x.jpg?v=1670270511 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1080x.jpg?v=1670270511 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1296x.jpg?v=1670270511 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1512x.jpg?v=1670270511 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_1728x.jpg?v=1670270511 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/magma-01_2048x.jpg?v=1670270511 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/sky-king-pterantor-magma-soft-vinyl-toy">Sky King Pterantor – Magma - Soft Vinyl Toy</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price">
+                        <span className="visually-hidden">Regular price</span>
+                        $100.00 &nbsp;
+                      </span>
+                      —
+                      <strong className="sold-out-text"> Sold Out</strong>
+                    </div>
                   </div>
-                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
-
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-a">
+                      <a href="/products/joy-riders-nebula-one-deluxe-set" className="product__image-wrapper" title="Joy Riders – Nebula One Deluxe Set">
+                        <img className="product__image lazyautosizes lazyloaded" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="Joy Riders – Nebula One Deluxe Set" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_180x.jpg?v=1622589496 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_360x.jpg?v=1622589496 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_540x.jpg?v=1622589496 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_720x.jpg?v=1622589496 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_900x.jpg?v=1622589496 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1080x.jpg?v=1622589496 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1296x.jpg?v=1622589496 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1512x.jpg?v=1622589496 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1728x.jpg?v=1622589496 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_2048x.jpg?v=1622589496 2048w" sizes="303px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_180x.jpg?v=1622589496 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_360x.jpg?v=1622589496 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_540x.jpg?v=1622589496 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_720x.jpg?v=1622589496 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_900x.jpg?v=1622589496 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1080x.jpg?v=1622589496 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1296x.jpg?v=1622589496 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1512x.jpg?v=1622589496 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_1728x.jpg?v=1622589496 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/JR-Boxed-Shopify-03_2048x.jpg?v=1622589496 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/joy-riders-nebula-one-deluxe-set">Joy Riders – Nebula One Deluxe Set</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price--on-sale">
+                        <strong className="visually-hidden">Sale price</strong>
+                        $75.00
+                      </span>
+                      <span className="visually-hidden">Regular price</span>
+                      <s>$95.00</s>
+                      <span className="badge badge--sale">
+                        <span>Sale</span>
+                      </span>
+                    </div>
                   </div>
-                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
-
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-b">
+                      <a href="/products/tmnt-action-figure-compendium" className="product__image-wrapper-a" title="TMNT Action Figure Compendium (2020)">
+                        <img className="product__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_150x150.png?v=1602824943" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6693333333333333" data-sizes="auto" alt="TMNT Action Figure Compendium (2020)" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_180x.png?v=1602824943 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_360x.png?v=1602824943 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_540x.png?v=1602824943 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_720x.png?v=1602824943 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_900x.png?v=1602824943 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1080x.png?v=1602824943 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1296x.png?v=1602824943 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1512x.png?v=1602824943 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1728x.png?v=1602824943 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_2048x.png?v=1602824943 2048w" sizes="303px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_180x.png?v=1602824943 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_360x.png?v=1602824943 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_540x.png?v=1602824943 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_720x.png?v=1602824943 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_900x.png?v=1602824943 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1080x.png?v=1602824943 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1296x.png?v=1602824943 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1512x.png?v=1602824943 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_1728x.png?v=1602824943 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/tmnt-compendium-02_2048x.png?v=1602824943 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/tmnt-action-figure-compendium">TMNT Action Figure Compendium (2020)</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price--on-sale">
+                        <strong className="visually-hidden">Sale price</strong>
+                        $20.00
+                      </span>
+                      <span className="visually-hidden">Regular price</span>
+                      <s>$30.00</s>
+                      <span className="badge badge--sale">
+                        <span>Sale</span>
+                      </span>
+                    </div>
                   </div>
-                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
-                    
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-a">
+                      <a href="/products/draw-shop-sign-screen-print" className="product__image-wrapper" title="DRAW shop sign - Screen Print">
+                        <img className="product__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_150x150.png?v=1603134657" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="DRAW shop sign - Screen Print" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_180x.png?v=1603134657 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_360x.png?v=1603134657 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_540x.png?v=1603134657 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_720x.png?v=1603134657 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_900x.png?v=1603134657 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1080x.png?v=1603134657 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1296x.png?v=1603134657 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1512x.png?v=1603134657 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1728x.png?v=1603134657 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_2048x.png?v=1603134657 2048w" sizes="303px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_180x.png?v=1603134657 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_360x.png?v=1603134657 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_540x.png?v=1603134657 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_720x.png?v=1603134657 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_900x.png?v=1603134657 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1080x.png?v=1603134657 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1296x.png?v=1603134657 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1512x.png?v=1603134657 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_1728x.png?v=1603134657 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/Draw-01_2048x.png?v=1603134657 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/draw-shop-sign-screen-print">DRAW shop sign - Screen Print</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price">
+                        <span className="visually-hidden">Regular price</span>
+                        $10.00
+                      </span>
+                    </div>
                   </div>
-                  <div class="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
-                    
+                  <div className="product grid__item medium-up--one-third small--one-half slide-up-animation animated" role="listitem">
+                    <div className="supports-js-a">
+                      <a href="/products/mini-screen-prints-set-3" className="product__image-wrapper" title="Mini Screen Prints SET 3">
+                        <img className="product__image lazyautosizes lazyloaded" src="//cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_150x150.png?v=1573347020" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="Mini Screen Prints SET 3" data-srcset="//cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_180x.png?v=1573347020 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_360x.png?v=1573347020 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_540x.png?v=1573347020 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_720x.png?v=1573347020 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_900x.png?v=1573347020 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1080x.png?v=1573347020 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1296x.png?v=1573347020 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1512x.png?v=1573347020 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1728x.png?v=1573347020 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_2048x.png?v=1573347020 2048w" sizes="303px" srcSet="//cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_180x.png?v=1573347020 180w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_360x.png?v=1573347020 360w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_540x.png?v=1573347020 540w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_720x.png?v=1573347020 720w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_900x.png?v=1573347020 900w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1080x.png?v=1573347020 1080w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1296x.png?v=1573347020 1296w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1512x.png?v=1573347020 1512w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_1728x.png?v=1573347020 1728w, //cdn.shopify.com/s/files/1/0002/1915/2443/products/miniscreenprints2019-1024x1024_2048x.png?v=1573347020 2048w" />
+                      </a>
+                    </div>
+                    <div className="product__title text-center">
+                      <a href="/products/mini-screen-prints-set-3">Mini Screen Prints SET 3</a>
+                    </div>
+                    <div className="product__prices text-center">
+                      <span className="product__price"> From $4.00 </span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -123,6 +197,7 @@ function Grid() {
           </div>
         </main>
       </div>
+      <hr />
     </div>
   )
 }
