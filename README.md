@@ -1,7 +1,7 @@
 # Proyecto1-PaginaWeb
 This project is a clone of thebeastistisback, worked in a React + Vite environment.
 
-<img src="//cdn.shopify.com/s/files/1/0002/1915/2443/files/tbib_logo_150x150_99018b68-25df-497a-b5ec-c180a2b20fdf_150x150.png?v=1613528790" sizes="150px">
+<img src="src/assets/logov2.png" width="150px" height="150px">
 
 ## :computer: Technologies Used
 * [React](https://es.react.dev/learn)
